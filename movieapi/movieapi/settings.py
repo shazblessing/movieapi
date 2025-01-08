@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     "User",
     "Movie",
     "Review",
+    "Rating",
 ]
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
