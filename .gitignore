@@ -1,0 +1,27 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.vscode/
+*.suo
+*.user
+*.sln
+*.vspscc
+.settings/
+.idea/
+
+# Test files
+.pytest_cache/
+coverage/
